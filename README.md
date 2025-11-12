@@ -1,4 +1,5 @@
- ![photorealistic_professional_photography_of_a_modern_text (1)](https://github.com/user-attachments/assets/541c3082-25f4-415a-8cf4-00dbe78af465)
+<img width="1024" height="172" alt="retouch_2025111217390816" src="https://github.com/user-attachments/assets/62278260-84c7-4e9d-843d-1014484c471d" />
+
 <div align="center">
 ⚛️ QuoreMind v1.0.0
   
