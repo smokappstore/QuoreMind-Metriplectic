@@ -167,7 +167,7 @@ print(f"Entropía von Neumann: {entropy:.6f}")  # Debe oscilar ∈ [0, 1]
 ### Ejemplo 2: Análisis de Corchetes de Poisson
 
 ```python
-from quoremind_v1_0_0 import PoissonBrackets
+from quoremind import PoissonBrackets
 import numpy as np
 
 # Definir Hamiltoniano
@@ -191,7 +191,7 @@ print(f"dx/dt = {df_dt:.6f}")
 ### Ejemplo 3: Simulación de Colapso Metripléctico (Uso Completo)
 
 ```python
-from quoremind_v1_0_0 import (
+from quoremind import (
     QuantumNoiseCollapse,
     VonNeumannEntropy
 )
@@ -231,7 +231,7 @@ print(f"✓ Posterior bayesiana: {result['bayesian_posterior']:.6f}")
 ### Ejemplo 4: Optimización de Estados Cuánticos
 
 ```python
-from quoremind_v1_0_0 import QuantumNoiseCollapse
+from quoremind import QuantumNoiseCollapse
 import numpy as np
 
 # Inicializar
@@ -256,7 +256,7 @@ print(f"✓ Estados optimizados:\n{optimized_states}")
 ### Ejemplo 5: Análisis de Anomalías con Mahalanobis
 
 ```python
-from quoremind_v1_0_0 import QuantumBayesMahalanobis
+from quoremind import QuantumBayesMahalanobis
 import numpy as np
 
 # Inicializar
@@ -495,8 +495,8 @@ Ver [LICENSE](LICENSE) para detalles completos.
 
 - **Autor**: Jacobo Tlacaelel Mina Rodríguez
 - **Email**: jakocrazykings@gmail.com
-- **Issues**: [GitHub Issues](https://github.com/tlacaelel666/QuoreMind-Metriplectic/issues)
-- **Documentación**: [Wiki](https://github.com/tlacaelel666/QuoreMind-Metriplectic/wiki)
+- **Issues**: [GitHub Issues](https://github.com/smokeappstore/QuoreMind-Metriplectic/issues)
+- **Documentación**: [Wiki](https://github.com/smokeappstore/QuoreMind-Metriplectic/wiki)
 
 ---
 
@@ -509,7 +509,7 @@ Si usas QuoreMind en investigación, por favor cita:
   title={QuoreMind v1.0.0: Sistema Metripléctico Cuántico-Bayesiano},
   author={Mina Rodríguez, Jacobo Tlacaelel},
   year={2025},
-  url={https://github.com/tlacaelel666/QuoreMind-Metriplectic},
+  url={https://github.com/smokeappstore/QuoreMind-Metriplectic},
   license={Apache-2.0}
 }
 ```
