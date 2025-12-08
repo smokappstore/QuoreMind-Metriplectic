@@ -304,7 +304,7 @@ El framework ofrece **5 métodos** para normalizar entropía a `[0, 1]`:
 ### Parámetros de Configuración
 
 ```python
-from quoremind_v1_0_0 import BayesLogicConfig
+from quoremind import BayesLogicConfig
 
 config = BayesLogicConfig(
     epsilon=1e-6,
